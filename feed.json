@@ -1,4 +1,5 @@
 {
+  "applicationId": "Twitter",
   "parents": [
     ["pmnazari/test-feed3"]
   ]
